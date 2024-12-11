@@ -1,0 +1,26 @@
+/* Google Font (Roboto) */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+/* Header */
+
+#header-1 .img-cont img{
+    width: 55px;
+}
+
+#header-1 .icons-cont .container{
+    background-color: #EBF1FF;
+    border: none;
+    width: 40px;
+    height: 40px;
+    padding: 7px;
+    border-radius: 50%;
+}
+
+#header-1 .icons-cont .container img {
+    width: 100%;
+}
